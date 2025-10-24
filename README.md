@@ -34,4 +34,17 @@ Objective: Identify patterns that predict whether a borrower will repay or defau
 | Environment | Jupyter Notebook |
 | Version Control | Git, GitHub |
 
+loan_analysis (1).ipynb
+[output](images/output1.png)
+[output2](images/output2.png)
+[output](images/output3.png)
+[loan purpose](images/loanpurpose.png)
+[loan pupose(1)](images/loanpurpose(1).png)
+[interestrate](images/interestrate.png)
+[defaultvsfico](images/defaultvsfico.png)
+[installmentvsincome](images/installmentvsincomeratio.png)
+[incomevsinstallement](images/incomevsinstallement.png)
+[correlation](images/correlation1.png)
+[output](images/output1.png)
+
 
